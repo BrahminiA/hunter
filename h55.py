@@ -12,6 +12,5 @@ for j in range(0,len(arr)):
         print(arr[j])
     else:
        print(arr[j],end=" ")
-print(".")
 
 
